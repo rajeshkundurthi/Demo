@@ -1,0 +1,1 @@
+variable "rg_data" {} resource "azurerm_resource_group" "rg" { for_each = { for rg in var.rg_data : rg.rg_name => rg } name = each.value.rg_name location = each.value.location } output "rg_map" { value = { for k, v in azurerm_resource_group.rg : k => { name = v.name location = v.location } } }

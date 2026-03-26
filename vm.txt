@@ -1,0 +1,3 @@
+vm_name,rg_name,subnet_name,vm_size
+vm-app,rg-dev,subnet-app,Standard_B1s
+vm-db,rg-dev,subnet-db,Standard_B1s
