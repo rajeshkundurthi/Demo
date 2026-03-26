@@ -1,0 +1,3 @@
+rg_name,location,vnet_name,address_space,subnet_name,subnet_prefix
+rg-demo,eastus,vnet-demo,10.0.0.0/16,subnet-app,10.0.1.0/24
+rg-demo,eastus,vnet-demo,10.0.0.0/16,subnet-db,10.0.2.0/24
