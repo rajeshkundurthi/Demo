@@ -1,0 +1,3 @@
+rg_name,location,environment
+rg-dev-app1,eastus,dev
+rg-prod-app2,centralindia,prod
