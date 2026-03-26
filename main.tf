@@ -12,7 +12,7 @@ resource "azurerm_resource_group" "rg" {
 
   tags = {
     Environment = trimspace(each.value.environment)
-    Owner       = "Rajesh"
+    Owner       = "Satish"
   }
 }
 
