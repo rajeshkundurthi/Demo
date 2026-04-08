@@ -1,0 +1,2 @@
+vnet1,10.0.0.0/16,eastus,rg-dev-app1,subnet1:10.0.1.0/24|subnet2:10.0.2.0/24
+vnet2,10.1.0.0/16,westus,rg-prod-app1,subnetA:10.1.1.0/24|subnetB:10.1.2.0/24
