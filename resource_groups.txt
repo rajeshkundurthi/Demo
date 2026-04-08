@@ -1,6 +1,6 @@
 rg_name,location,environment,owner
 rg-dev-app1,eastus,dev,Rajesh
-rg-prod-app1,eastus,dev,Rajesh
+
 
 
 
